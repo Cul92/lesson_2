@@ -4,7 +4,7 @@ def get_matrix(n, m, value):
     for i in range(n):
         matrix.append(num)
     for j in range(m):
-            num.append(value)
+        num.append(value)
     return matrix
 
 
